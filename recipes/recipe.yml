@@ -30,7 +30,7 @@ modules:
 
   - type: systemd
     system:
-      enable:
+      enabled:
         - throttled.service
 
   - type: default-flatpaks
