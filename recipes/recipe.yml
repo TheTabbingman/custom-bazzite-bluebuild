@@ -21,9 +21,11 @@ modules:
     repos:
       copr:
         - adn/throttled
+    remove:
+      packages:
+        - thermald
     install:
       packages:
-        - nodejs
         - throttled
 
   - type: systemd
