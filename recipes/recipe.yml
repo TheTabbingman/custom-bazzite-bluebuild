@@ -20,7 +20,7 @@ modules:
   - type: dnf
     repos:
       copr:
-        - adn/throttled
+        - abn/throttled
     remove:
       packages:
         - thermald
