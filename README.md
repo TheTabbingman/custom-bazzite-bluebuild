@@ -1,4 +1,4 @@
-# custom-bazzite &nbsp; [![bluebuild build badge](https://github.com/thetabbingman/custom-bazzite-bluegbuild/actions/workflows/build.yml/badge.svg)](https://github.com/thetabbingman/custom-bazzite-bluebuild/actions/workflows/build.yml)
+# custom-bazzite &nbsp;
 
 See the [BlueBuild docs](https://blue-build.org/how-to/setup/) for quick setup instructions for setting up your own repository based on this template.
 
